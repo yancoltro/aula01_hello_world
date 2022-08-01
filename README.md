@@ -1,16 +1,6 @@
 # aula01_hello_world
 
-A new Flutter project.
+Disciplina SI21405 - Projeto para Dispositivos Móveis (T01)
 
-## Getting Started
+[Aula 01](https://ember-feeling-d46.notion.site/Aula-1-27-07-2022-fad144af85614ad7aadf6fe970b1234b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
